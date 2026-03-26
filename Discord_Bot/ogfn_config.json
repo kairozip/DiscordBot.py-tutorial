@@ -1,0 +1,10 @@
+{
+    "esp_enabled": true,
+    "esp_box_color": "#FF0000",
+    "trigger_enabled": false,
+    "trigger_key": "shift",
+    "trigger_delay_ms": 50,
+    "trigger_fov": 50,
+    "aimbot_enabled": false,
+    "aimbot_smoothness": 5
+}

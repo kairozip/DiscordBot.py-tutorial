@@ -1,0 +1,30 @@
+🔹 BASIC:
+!ping      - Check if bot is alive
+!hello     - Get greeted
+!info      - Bot stats
+
+🔹 MODERATION:
+!kick @user    - Kick member
+!ban @user     - Ban member  
+!clear 10      - Delete messages
+!mute @user 5  - Mute for 5 min
+
+🔹 FUN:
+!8ball question   - Magic 8-ball
+!roll 2d20        - Roll dice
+!coinflip         - Flip coin
+!rps rock         - Rock Paper Scissors
+
+🔹 UTILITY:
+!userinfo @user   - User details
+!serverinfo       - Server stats
+!avatar @user     - Get avatar
+
+🔹 OWNER ONLY:
+!terminal dir     - Run system command
+!say text         - Make bot speak
+!dm @user text    - Send DM
+!status playing X - Change status
+!servers          - List servers
+!leave            - Leave server
+!restart          - Restart bot

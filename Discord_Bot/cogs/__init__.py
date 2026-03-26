@@ -1,0 +1,3 @@
+# cogs/__init__.py
+# This file makes the cogs folder a Python package
+# It can be empty, just needs to exist
