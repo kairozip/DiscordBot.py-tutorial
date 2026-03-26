@@ -6,7 +6,7 @@ Copyright (c) 2026 Kairo.dev
 
 **Author:** Kairo.dev  
 **YouTube Channel:** [WavingWavers_tutorials](https://www.youtube.com/@WavingWavers_tutorials)  
-**Repository:** [Insert Repository Link]  
+**Repository:** [Repository Link](https://github.com/kairozip/DiscordBot.py-tutorial?tab=License-1-ov-file)  
 **Support:** For tutorials, updates, and support, visit the YouTube channel above.
 
 ---
